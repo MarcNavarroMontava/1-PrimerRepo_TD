@@ -1,2 +1,2 @@
-# 1-PrimerRepo_TD_2024/2025
+# 1-PrimerRepo_TD
 Primer repositorio GitHub
